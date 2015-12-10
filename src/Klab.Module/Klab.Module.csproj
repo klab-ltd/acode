@@ -7,8 +7,8 @@
     <ProjectGuid>{B451071B-C608-41B2-B1DF-41625FF15224}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Klab.System.Code</RootNamespace>
-    <AssemblyName>Klab.System.Code</AssemblyName>
+    <RootNamespace>Klab.Module</RootNamespace>
+    <AssemblyName>Klab.Module.Code</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

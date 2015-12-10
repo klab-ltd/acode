@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Klab.System.Code
+namespace Klab.Module
 {
     /// <summary>
     /// ASCII code generator.
