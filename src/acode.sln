@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klab.System.Code", "Klab.System.Code\Klab.System.Code.csproj", "{B451071B-C608-41B2-B1DF-41625FF15224}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Klab.System.Code.JS", "Klab.System.Code.JS\Klab.System.Code.JS.njsproj", "{49691479-1101-4F52-A02F-A902AD9E31D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B451071B-C608-41B2-B1DF-41625FF15224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B451071B-C608-41B2-B1DF-41625FF15224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B451071B-C608-41B2-B1DF-41625FF15224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B451071B-C608-41B2-B1DF-41625FF15224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49691479-1101-4F52-A02F-A902AD9E31D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49691479-1101-4F52-A02F-A902AD9E31D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49691479-1101-4F52-A02F-A902AD9E31D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49691479-1101-4F52-A02F-A902AD9E31D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

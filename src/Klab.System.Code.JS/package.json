@@ -1,0 +1,11 @@
+{
+  "name": "acode",
+  "version": "0.0.1",
+  "description": "A code generator.",
+  "main": "app.js",
+  "author": {
+    "name": "klab"
+  },
+  "dependencies": { },
+  "keywords": [ "sha", "hash", "code" ]
+}
